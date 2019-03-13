@@ -1,0 +1,20 @@
+apply from: "../module.gradle"
+
+android {
+    resourcePrefix "moudulec_"
+
+
+
+    defaultConfig {
+        if (isBuildModule.toBoolean()) {
+            applicationId "com.zwb.moudulec"
+        }
+
+    }
+
+
+}
+
+dependencies {
+    api project(':moudulecexport')
+}

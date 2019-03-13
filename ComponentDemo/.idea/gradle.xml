@@ -12,6 +12,8 @@
             <option value="$PROJECT_DIR$/baselibrary" />
             <option value="$PROJECT_DIR$/moudulea" />
             <option value="$PROJECT_DIR$/mouduleb" />
+            <option value="$PROJECT_DIR$/moudulec" />
+            <option value="$PROJECT_DIR$/moudulecexport" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

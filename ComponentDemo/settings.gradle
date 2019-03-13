@@ -1,1 +1,1 @@
-include ':app', ':baselibrary', ':moudulea', ':mouduleb'
+include ':app', ':baselibrary', ':moudulea', ':mouduleb', ':moudulec', ':moudulecexport'
